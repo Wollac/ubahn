@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<transport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="transport.xsd">
+
+  <stations>
+    <station name="A"/>
+    <station name="B"/>
+  </stations>
+
+  <lines>
+    <line name="U1">
+      <stations>
+        <station name="A" time="0"/>
+        <station name="B" time="1"/>
+      </stations>
+    </line>
+  </lines>
+
+</transport>
+
+

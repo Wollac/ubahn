@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<transport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="transport.xsd">
+
+  <stations>
+    <station name="Adenauerplatz"/>
+    <station name="Afrikanische Straße"/>
+    <station name="Alexanderplatz"/>
+    <station name="Alt-Mariendorf"/>
+    <station name="Altstadt Spandau"/>
+    <station name="Alt-Tegel"/>
+    <station name="Alt-Tempelhof"/>
+    <station name="Amrumer Straße"/>
+    <station name="Augsburger Straße"/>
+    <station name="Bayerischer Platz"/>
+    <station name="Berliner Straße"/>
+    <station name="Bernauer Straße"/>
+    <station name="Biesdorf-Süd"/>
+    <station name="Birkenstraße"/>
+    <station name="Bismarckstraße"/>
+    <station name="Blaschkoallee"/>
+    <station name="Blissestraße"/>
+    <station name="Boddinstraße"/>
+    <station name="Borsigwerke"/>
+    <station name="Breitenbachplatz"/>
+    <station name="Britz-Süd"/>
+    <station name="Bülowstraße"/>
+    <station name="Bundesplatz"/>
+    <station name="Cottbusser Platz"/>
+    <station name="Dahlem-Dorf"/>
+    <station name="Deutsche Oper"/>
+    <station name="Eberswalder Straße"/>
+    <station name="Eisenacher Straße"/>
+    <station name="Elsterwerdaer Platz"/>
+    <station name="Ernst-Reuter-Platz"/>
+    <station name="Fehrbelliner Platz"/>
+    <station name="Frankfurter Allee"/>
+    <station name="Frankfurter Tor"/>
+    <station name="Franz-Neumann-Platz"/>
+    <station name="Französische Straße"/>
+    <station name="Friedrichsfelde"/>
+    <station name="Friedrichstraße"/>
+    <station name="Friedrich-Wilhelm-Platz"/>
+    <station name="Gesundbrunnen"/>
+    <station name="Gleisdreieck"/>
+    <station name="Gneisenaustraße"/>
+    <station name="Görlitzer Bahnhof"/>
+    <station name="Grenzallee"/>
+    <station name="Güntzelstraße"/>
+    <station name="Halemweg"/>
+    <station name="Hallesches Tor"/>
+    <station name="Hansaplatz"/>
+    <station name="Haselhorst"/>
+    <station name="Hausvogteiplatz"/>
+    <station name="Heidelberger Platz"/>
+    <station name="Heinrich-Heine-Straße"/>
+    <station name="Hellersdorf"/>
+    <station name="Hermannplatz"/>
+    <station name="Hermannstraße"/>
+    <station name="Hohenzollernplatz"/>
+    <station name="Holzhauser Straße"/>
+    <station name="Hönow"/>
+    <station name="Innsbrucker Platz"/>
+    <station name="Jakob-Kaiser-Platz"/>
+    <station name="Jannowitzbrücke"/>
+    <station name="Johannisthaler Chaussee"/>
+    <station name="Jungfernheide"/>
+    <station name="Kaiserdamm"/>
+    <station name="Kaiserin-Augusta-Straße"/>
+    <station name="Karl-Bonhoeffer-Nervenklinik"/>
+    <station name="Karl-Marx-Straße"/>
+    <station name="Kaulsdorf-Nord"/>
+    <station name="Kleistpark"/>
+    <station name="Klosterstraße"/>
+    <station name="Kochstraße"/>
+    <station name="Konstanzer Straße"/>
+    <station name="Kottbusser Tor"/>
+    <station name="Krumme Lanke"/>
+    <station name="Kurfürstendamm"/>
+    <station name="Kurfürstenstraße"/>
+    <station name="Kurt-Schumacher-Platz"/>
+    <station name="Leinestraße"/>
+    <station name="Leopoldplatz"/>
+    <station name="Lichtenberg"/>
+    <station name="Lindauer Allee"/>
+    <station name="Lipschitzallee"/>
+    <station name="Louis-Lewin-Straße"/>
+    <station name="Magdalenenstraße"/>
+    <station name="Märkisches Museum"/>
+    <station name="Mehringdamm"/>
+    <station name="Mehringdamm"/>
+    <station name="Mendelssohn-Bartholdy-Park"/>
+    <station name="Mierendorffplatz"/>
+    <station name="Möckernbrücke"/>
+    <station name="Mohrenstraße"/>
+    <station name="Moritzplatz"/>
+    <station name="Naturkundemuseum"/>
+    <station name="Nauener Platz"/>
+    <station name="Neue Grottkauer Straße"/>
+    <station name="Neukölln"/>
+    <station name="Neu-Westend"/>
+    <station name="Nollendorfplatz"/>
+    <station name="Olympia-Stadion"/>
+    <station name="Onkel Toms Hütte"/>
+    <station name="Oranienburger Tor"/>
+    <station name="Oskar-Helene-Heim"/>
+    <station name="Osloer Straße"/>
+    <station name="Otisstraße"/>
+    <station name="Pankow"/>
+    <station name="Pankstraße"/>
+    <station name="Paracelsus-Bad"/>
+    <station name="Paradestraße"/>
+    <station name="Parchimer Allee"/>
+    <station name="Paulsternstraße"/>
+    <station name="Platz der Luftbrücke"/>
+    <station name="Podbielskiallee"/>
+    <station name="Potsdamer Platz"/>
+    <station name="Prinzenstraße"/>
+    <station name="Rathaus Neukölln"/>
+    <station name="Rathaus Reinickendorf"/>
+    <station name="Rathaus Schöneberg"/>
+    <station name="Rathaus Spandau"/>
+    <station name="Rathaus Steglitz"/>
+    <station name="Rehberge"/>
+    <station name="Reinickendorfer Straße"/>
+    <station name="Residenzstraße"/>
+    <station name="Richard-Wagner-Platz"/>
+    <station name="Rohrdamm"/>
+    <station name="Rosa-Luxemburg-Platz"/>
+    <station name="Rosenthaler Platz"/>
+    <station name="Rüdesheimer Platz"/>
+    <station name="Rudow"/>
+    <station name="Ruhleben"/>
+    <station name="Samariterstraße"/>
+    <station name="Scharnweberstraße"/>
+    <station name="Schillingstraße"/>
+    <station name="Schlesisches Tor"/>
+    <station name="Schloßstraße"/>
+    <station name="Schönhauser Allee"/>
+    <station name="Schönleinstraße"/>
+    <station name="Schwartzkopffstraße"/>
+    <station name="Seestraße"/>
+    <station name="Senefelderplatz"/>
+    <station name="Siemensdamm"/>
+    <station name="Sophie-Charlotte-Platz"/>
+    <station name="Spichernstraße"/>
+    <station name="Spittelmarkt"/>
+    <station name="Stadtmitte"/>
+    <station name="Strausberger Platz"/>
+    <station name="Südstern"/>
+    <station name="Tempelhof"/>
+    <station name="Theodor-Heuss-Platz"/>
+    <station name="Thielplatz"/>
+    <station name="Tierpark"/>
+    <station name="Turmstraße"/>
+    <station name="Uhlandstraße"/>
+    <station name="Ullsteinstraße"/>
+    <station name="Viktoria-Luise-Platz"/>
+    <station name="Vinetastraße"/>
+    <station name="Voltastraße"/>
+    <station name="Walther-Schreiber-Platz"/>
+    <station name="Warschauer Straße"/>
+    <station name="Weberwiese"/>
+    <station name="Wedding"/>
+    <station name="Weinmeisterstraße"/>
+    <station name="Westhafen"/>
+    <station name="Westphalweg"/>
+    <station name="Wilmersdorfer Straße"/>
+    <station name="Wittenau"/>
+    <station name="Wittenbergplatz"/>
+    <station name="Wittenbergplatz"/>
+    <station name="Wuhletal"/>
+    <station name="Wutzkyallee"/>
+    <station name="Yorckstraße"/>
+    <station name="Zitadelle"/>
+    <station name="Zoologischer Garten"/>
+    <station name="Zwickauer Damm"/>
+  </stations>
+
+  <lines>
+    <line name="U1">
+      <stations>
+        <station name="Warschauer Straße" time="0"/>
+        <station name="Schlesisches Tor" time="2"/>
+        <station name="Görlitzer Bahnhof" time="4"/>
+        <station name="Kottbusser Tor" time="6"/>
+        <station name="Prinzenstraße" time="8"/>
+        <station name="Hallesches Tor" time="10"/>
+        <station name="Möckernbrücke" time="11"/>
+        <station name="Gleisdreieck" time="13"/>
+        <station name="Kurfürstenstraße" time="15"/>
+        <station name="Nollendorfplatz" time="16"/>
+        <station name="Wittenbergplatz" time="18"/>
+        <station name="Kurfürstendamm" time="20"/>
+        <station name="Uhlandstraße" time="21"/>
+      </stations>
+    </line>
+
+    <line name="U2">
+      <stations>
+        <station name="Pankow" time="0"/>
+        <station name="Vinetastraße" time="2"/>
+        <station name="Schönhauser Allee" time="4"/>
+        <station name="Eberswalder Straße" time="6"/>
+        <station name="Senefelderplatz" time="8"/>
+        <station name="Rosa-Luxemburg-Platz" time="9"/>
+        <station name="Alexanderplatz" time="11"/>
+        <station name="Klosterstraße" time="13"/>
+        <station name="Märkisches Museum" time="15"/>
+        <station name="Spittelmarkt" time="16"/>
+        <station name="Hausvogteiplatz" time="18"/>
+        <station name="Stadtmitte" time="20"/>
+        <station name="Mohrenstraße" time="21"/>
+        <station name="Potsdamer Platz" time="23"/>
+        <station name="Mendelssohn-Bartholdy-Park" time="24"/>
+        <station name="Gleisdreieck" time="26"/>
+        <station name="Bülowstraße" time="28"/>
+        <station name="Nollendorfplatz" time="29"/>
+        <station name="Wittenbergplatz" time="31"/>
+        <station name="Zoologischer Garten" time="33"/>
+        <station name="Ernst-Reuter-Platz" time="35"/>
+        <station name="Deutsche Oper" time="37"/>
+        <station name="Bismarckstraße" time="38"/>
+        <station name="Sophie-Charlotte-Platz" time="39"/>
+        <station name="Kaiserdamm" time="41"/>
+        <station name="Theodor-Heuss-Platz" time="42"/>
+        <station name="Neu-Westend" time="44"/>
+        <station name="Olympia-Stadion" time="46"/>
+        <station name="Ruhleben" time="48"/>
+      </stations>
+    </line>
+
+    <line name="U3">
+      <stations>
+        <station name="Nollendorfplatz" time="0"/>
+        <station name="Wittenbergplatz" time="2"/>
+        <station name="Augsburger Straße" time="4"/>
+        <station name="Spichernstraße" time="5"/>
+        <station name="Hohenzollernplatz" time="7"/>
+        <station name="Fehrbelliner Platz" time="9"/>
+        <station name="Heidelberger Platz" time="11"/>
+        <station name="Rüdesheimer Platz" time="12"/>
+        <station name="Breitenbachplatz" time="14"/>
+        <station name="Podbielskiallee" time="15"/>
+        <station name="Dahlem-Dorf" time="17"/>
+        <station name="Thielplatz" time="19"/>
+        <station name="Oskar-Helene-Heim" time="20"/>
+        <station name="Onkel Toms Hütte" time="22"/>
+        <station name="Krumme Lanke" time="24"/>
+      </stations>
+    </line>
+
+    <line name="U4">
+      <stations>
+        <station name="Nollendorfplatz" time="0"/>
+        <station name="Viktoria-Luise-Platz" time="2"/>
+        <station name="Bayerischer Platz" time="4"/>
+        <station name="Rathaus Schöneberg" time="5"/>
+        <station name="Innsbrucker Platz" time="6"/>
+      </stations>
+    </line>
+
+    <line name="U5">
+      <stations>
+        <station name="Hönow" time="0"/>
+        <station name="Louis-Lewin-Straße" time="2"/>
+        <station name="Hellersdorf" time="4"/>
+        <station name="Cottbusser Platz" time="5"/>
+        <station name="Neue Grottkauer Straße" time="7"/>
+        <station name="Kaulsdorf-Nord" time="8"/>
+        <station name="Wuhletal" time="11"/>
+        <station name="Elsterwerdaer Platz" time="13"/>
+        <station name="Biesdorf-Süd" time="15"/>
+        <station name="Tierpark" time="17"/>
+        <station name="Friedrichsfelde" time="19"/>
+        <station name="Lichtenberg" time="21"/>
+        <station name="Magdalenenstraße" time="23"/>
+        <station name="Frankfurter Allee" time="24"/>
+        <station name="Samariterstraße" time="26"/>
+        <station name="Frankfurter Tor" time="27"/>
+        <station name="Weberwiese" time="28"/>
+        <station name="Strausberger Platz" time="30"/>
+        <station name="Schillingstraße" time="31"/>
+        <station name="Alexanderplatz" time="33"/>
+      </stations>
+    </line>
+
+    <line name="U6">
+      <stations>
+        <station name="Alt-Tegel" time="0"/>
+        <station name="Borsigwerke" time="2"/>
+        <station name="Holzhauser Straße" time="3"/>
+        <station name="Otisstraße" time="4"/>
+        <station name="Scharnweberstraße" time="6"/>
+        <station name="Kurt-Schumacher-Platz" time="7"/>
+        <station name="Afrikanische Straße" time="9"/>
+        <station name="Rehberge" time="10"/>
+        <station name="Seestraße" time="12"/>
+        <station name="Leopoldplatz" time="13"/>
+        <station name="Wedding" time="14"/>
+        <station name="Reinickendorfer Straße" time="15"/>
+        <station name="Schwartzkopffstraße" time="17"/>
+        <station name="Naturkundemuseum" time="18"/>
+        <station name="Oranienburger Tor" time="19"/>
+        <station name="Friedrichstraße" time="21"/>
+        <station name="Französische Straße" time="23"/>
+        <station name="Stadtmitte" time="24"/>
+        <station name="Kochstraße" time="25"/>
+        <station name="Hallesches Tor" time="27"/>
+        <station name="Mehringdamm" time="28"/>
+        <station name="Platz der Luftbrücke" time="30"/>
+        <station name="Paradestraße" time="32"/>
+        <station name="Tempelhof" time="33"/>
+        <station name="Alt-Tempelhof" time="34"/>
+        <station name="Kaiserin-Augusta-Straße" time="36"/>
+        <station name="Ullsteinstraße" time="37"/>
+        <station name="Westphalweg" time="38"/>
+        <station name="Alt-Mariendorf" time="39"/>
+      </stations>
+    </line>
+
+    <line name="U7">
+      <stations>
+        <station name="Rathaus Spandau" time="0"/>
+        <station name="Altstadt Spandau" time="1"/>
+        <station name="Zitadelle" time="3"/>
+        <station name="Haselhorst" time="5"/>
+        <station name="Paulsternstraße" time="6"/>
+        <station name="Rohrdamm" time="8"/>
+        <station name="Siemensdamm" time="9"/>
+        <station name="Halemweg" time="11"/>
+        <station name="Jakob-Kaiser-Platz" time="12"/>
+        <station name="Jungfernheide" time="13"/>
+        <station name="Mierendorffplatz" time="15"/>
+        <station name="Richard-Wagner-Platz" time="16"/>
+        <station name="Bismarckstraße" time="18"/>
+        <station name="Wilmersdorfer Straße" time="19"/>
+        <station name="Adenauerplatz" time="20"/>
+        <station name="Konstanzer Straße" time="21"/>
+        <station name="Fehrbelliner Platz" time="23"/>
+        <station name="Blissestraße" time="24"/>
+        <station name="Berliner Straße" time="25"/>
+        <station name="Bayerischer Platz" time="27"/>
+        <station name="Eisenacher Straße" time="28"/>
+        <station name="Kleistpark" time="29"/>
+        <station name="Yorckstraße" time="31"/>
+        <station name="Möckernbrücke" time="32"/>
+        <station name="Mehringdamm" time="34"/>
+        <station name="Gneisenaustraße" time="36"/>
+        <station name="Südstern" time="37"/>
+        <station name="Hermannplatz" time="39"/>
+        <station name="Rathaus Neukölln" time="41"/>
+        <station name="Karl-Marx-Straße" time="42"/>
+        <station name="Neukölln" time="44"/>
+        <station name="Grenzallee" time="45"/>
+        <station name="Blaschkoallee" time="47"/>
+        <station name="Parchimer Allee" time="48"/>
+        <station name="Britz-Süd" time="50"/>
+        <station name="Johannisthaler Chaussee" time="51"/>
+        <station name="Lipschitzallee" time="53"/>
+        <station name="Wutzkyallee" time="54"/>
+        <station name="Zwickauer Damm" time="55"/>
+        <station name="Rudow" time="57"/>
+      </stations>
+    </line>
+
+    <line name="U8">
+      <stations>
+        <station name="Wittenau" time="0"/>
+        <station name="Rathaus Reinickendorf" time="2"/>
+        <station name="Karl-Bonhoeffer-Nervenklinik" time="4"/>
+        <station name="Lindauer Allee" time="5"/>
+        <station name="Paracelsus-Bad" time="6"/>
+        <station name="Residenzstraße" time="8"/>
+        <station name="Franz-Neumann-Platz" time="9"/>
+        <station name="Osloer Straße" time="11"/>
+        <station name="Pankstraße" time="13"/>
+        <station name="Gesundbrunnen" time="14"/>
+        <station name="Voltastraße" time="16"/>
+        <station name="Bernauer Straße" time="17"/>
+        <station name="Rosenthaler Platz" time="19"/>
+        <station name="Weinmeisterstraße" time="20"/>
+        <station name="Alexanderplatz" time="22"/>
+        <station name="Jannowitzbrücke" time="24"/>
+        <station name="Heinrich-Heine-Straße" time="25"/>
+        <station name="Moritzplatz" time="27"/>
+        <station name="Kottbusser Tor" time="29"/>
+        <station name="Schönleinstraße" time="30"/>
+        <station name="Hermannplatz" time="32"/>
+        <station name="Boddinstraße" time="34"/>
+        <station name="Leinestraße" time="35"/>
+        <station name="Hermannstraße" time="36"/>
+      </stations>
+    </line>
+
+    <line name="U9">
+      <stations>
+        <station name="Osloer Straße" time="0"/>
+        <station name="Nauener Platz" time="1"/>
+        <station name="Leopoldplatz" time="3"/>
+        <station name="Amrumer Straße" time="4"/>
+        <station name="Westhafen" time="6"/>
+        <station name="Birkenstraße" time="7"/>
+        <station name="Turmstraße" time="8"/>
+        <station name="Hansaplatz" time="10"/>
+        <station name="Zoologischer Garten" time="12"/>
+        <station name="Kurfürstendamm" time="13"/>
+        <station name="Spichernstraße" time="14"/>
+        <station name="Güntzelstraße" time="15"/>
+        <station name="Berliner Straße" time="17"/>
+        <station name="Bundesplatz" time="18"/>
+        <station name="Friedrich-Wilhelm-Platz" time="20"/>
+        <station name="Walther-Schreiber-Platz" time="21"/>
+        <station name="Schloßstraße" time="22"/>
+        <station name="Rathaus Steglitz" time="23"/>
+      </stations>
+    </line>
+
+  </lines>
+
+</transport>
+
+
